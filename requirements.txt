@@ -1,6 +1,7 @@
 streamlit
-langchain
 openai
+langchain
 faiss-cpu
 tiktoken
-python-dotenv
+pandas
+numpy
