@@ -1,2 +1,4 @@
 # Streamlit app placeholder
-print("Hello, this will be the Streamlit app!")
+import streamlit as st
+st.title("RAG Search Engine")
+st.write("This is a placeholder for the Streamlit app.")
