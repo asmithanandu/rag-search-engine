@@ -1,20 +1,20 @@
 📚 RAG-Powered Search Engine
-🚀 Overview
+ Overview
 
 This project demonstrates how to build a Retrieval-Augmented Generation (RAG) based search engine using LangChain, OpenAI, FAISS, and Streamlit.
 Instead of relying only on a model’s memory, this app retrieves relevant information from a knowledge base before generating answers — making responses accurate, context-aware, and reliable.
 
-🎯 Key Features
+ Key Features
 
-🔍 Semantic Search → Retrieve relevant documents using FAISS vector database.
+ Semantic Search → Retrieve relevant documents using FAISS vector database.
 
-🤖 RAG Pipeline → Combine retrieval with OpenAI’s language model for context-grounded answers.
+ RAG Pipeline → Combine retrieval with OpenAI’s language model for context-grounded answers.
 
-💻 Interactive Web App → User-friendly interface built with Streamlit.
+ Interactive Web App → User-friendly interface built with Streamlit.
 
-⚡ Scalable → Can be extended to larger datasets and custom domains.
+ Scalable → Can be extended to larger datasets and custom domains.
 
-🛠️ Tech Stack
+ Tech Stack
 
 Python 3.10+
 
@@ -33,7 +33,7 @@ rag-search-engine/
 │── requirements.txt    # Dependencies
 │── README.md           # Project overview
 
-⚙️ Installation & Setup
+ Installation & Setup
 
 Clone this repository
 
@@ -55,15 +55,15 @@ Run the Streamlit app
 
 streamlit run app.py
 
-🔮 Future Enhancements
+Future Enhancements
 
 📑 Support for PDF/CSV/Docs as knowledge sources
 
-🧠 Multi-query expansion for richer retrieval
+ Multi-query expansion for richer retrieval
 
-🗂️ Add vector database integrations (Pinecone, Weaviate)
+ Add vector database integrations (Pinecone, Weaviate)
 
-🌐 Deploy on cloud platforms (Streamlit Cloud / Vercel / AWS)
+ Deploy on cloud platforms (Streamlit Cloud / Vercel / AWS)
 
-✨ Impact
+ Impact
 
